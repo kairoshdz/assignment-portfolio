@@ -1,0 +1,46 @@
+body {
+    font-family: 'Audiowide';
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {
+    text-align: center;
+    color:azure;
+    h1 {
+    margin: 0 0 5px 0;
+    padding: 10px 0;
+    color:azure;
+     text-shadow: 8px 6px 20px #3767a5;
+    } 
+    
+    h2 {
+        font-family : 'Space Mono', monospace;
+        color: #5283c3;
+        text-shadow: 2px 2px 10px #8e7adc;
+        margin: 10px 0;
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 13px;
+        margin: 0;
+    } 
+}
+
+.cell {
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 10px;
+    color:azure;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    a {
+        color: #5283c3;
+        text-decoration: none;
+        text-shadow: 2px 2px 10px #8e7adc;
+    }
+}
